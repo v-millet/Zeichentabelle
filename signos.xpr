@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qsignos.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="signos.xpr">
+        <folder path="file:/../private/var/folders/qm/rvx4zvdx0xd6j0x6c2l68rg80000gn/T/com.microsoft.Outlook/Outlook%20Temp/tabla_signos/"/>
+    </projectTree>
+</project>
