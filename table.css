@@ -2,7 +2,12 @@ teiHeader {
   display: none;
 }
 
-head {
+head[n="1"] {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+head[n="2"] {
   font-size: x-large;
   font-weight: bold;
 }
@@ -35,6 +40,11 @@ cell[role="label"] {
   background-color: rgb(100, 186, 54);
   font-size: large;
   font-weight: bold;
+}
+
+row[role="section"] {
+  font-size: large;
+  font-weight: bold;    
 }
 
 graphic[url] {
